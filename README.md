@@ -23,19 +23,21 @@
 ---
 
 ### :woman_technologist: About Me :
-Hello, I'm Shahriar Mahmud Anik. I graduated from Independent University Bangladesh in Computer Science and Engineering (CSE) department. I'm currently looking for a challenging and high-performance-oriented position in the field of computer science and engineering where I can apply my knowledge and abilities to the company's growth. I am extremely motivated to constantly develop my skills and grow professionally, and I am confident in my ability to come up with interesting ideas for developing new things. You can follow my progress on GitHub. Have a fantastic day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. </br>
+Hello, I'm Shahriar Mahmud Anik. I graduated from Independent University Bangladesh in Computer Science and Engineering (CSE) department. I'm currently looking for a challenging and high-performance-oriented position in the field of computer science and engineering where I can apply my knowledge and abilities to the company's growth. I am extremely motivated to constantly develop my skills and grow professionally, and I am confident in my ability to come up with interesting ideas for developing new things. You can follow my progress on GitHub. Have a fantastic day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. </br></br>
+----------------------------------------------------------------------------
 Job Experience : </br>
 Tritech Building Services Ltd. </br>
 Asst. Executive & Web Developer </br>
 January 2022 - Present </br>
 
-- :Customized WordPress themes and plugins to meet company
+- Customized WordPress themes and plugins to meet company
 requirements and preferences, if needed using PHP, HTML, CSS, and
 JavaScript.
-- :Conducted regular website maintenance and updates, ensuring
+- Conducted regular website maintenance and updates, ensuring
 optimal performance and security.
-- :Developed and executed effective website testing plans to identify and
-fix bugs and errors.
+- Developed and executed effective website testing plans to identify and
+fix bugs and errors. </br>
+----------------------------------------------------------------------------
 
 - :seedling: Exploring New Tecnologies.
 

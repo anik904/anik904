@@ -38,6 +38,7 @@ optimal performance and security.
 - Developed and executed effective website testing plans to identify and
 fix bugs and errors. </br>
 <hr>
+
 - :seedling: Exploring New Tecnologies.
 
 - :zap: In my free time, Exploring Technical Content Writing and read tech articles.

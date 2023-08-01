@@ -37,7 +37,7 @@ JavaScript.
 optimal performance and security.
 - Developed and executed effective website testing plans to identify and
 fix bugs and errors. </br>
-
+<hr>
 
 Elegance IT Solution </br>
 Jr. Web Developer</br>

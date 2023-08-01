@@ -28,7 +28,7 @@ Hello, I'm Shahriar Mahmud Anik. I graduated from Independent University Banglad
 Job Experience : </br>
 Tritech Building Services Ltd. </br>
 Asst. Executive & Web Developer </br>
-January 2022 - Present </br>
+May 2022 - June 2023 </br>
 
 - Customized WordPress themes and plugins to meet company
 requirements and preferences, if needed using PHP, HTML, CSS, and
@@ -39,6 +39,13 @@ optimal performance and security.
 fix bugs and errors. </br>
 <hr>
 
+Elegance IT Solution </br>
+Jr. Web Developer</br>
+August 20223- Present</br>
+- Building unique websites through WordPress to meet user's requirements and preferences by Using custom code.
+- Working these following areas: HTML5 and CSS3, JavaScript, PHP, WordPress Builders, WordPress Plugin Development, WordPress theme development, and Customization.
+
+<hr>
 - :seedling: Exploring New Tecnologies.
 
 - :zap: In my free time, Exploring Technical Content Writing and read tech articles.

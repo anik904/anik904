@@ -37,11 +37,11 @@ JavaScript.
 optimal performance and security.
 - Developed and executed effective website testing plans to identify and
 fix bugs and errors. </br>
-<hr>
+
 
 Elegance IT Solution </br>
 Jr. Web Developer</br>
-August 20223- Present</br>
+August 2023- Present</br>
 - Building unique websites through WordPress to meet user's requirements and preferences by Using custom code.
 - Working these following areas: HTML5 and CSS3, JavaScript, PHP, WordPress Builders, WordPress Plugin Development, WordPress theme development, and Customization.
 

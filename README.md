@@ -25,7 +25,7 @@
 ### :woman_technologist: About Me :
 Hello, I'm Shahriar Mahmud Anik. I graduated from Independent University Bangladesh in Computer Science and Engineering (CSE) department. I'm currently looking for a challenging and high-performance-oriented position in the field of computer science and engineering where I can apply my knowledge and abilities to the company's growth. I am extremely motivated to constantly develop my skills and grow professionally, and I am confident in my ability to come up with interesting ideas for developing new things. You can follow my progress on GitHub. Have a fantastic day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 <hr>
-Job Experience : </br>
+<h3> Job Experience : </h3> </br>
 Tritech Building Services Ltd. </br>
 Asst. Executive & Web Developer </br>
 May 2022 - June 2023 </br>
@@ -78,9 +78,10 @@ August 2023- Present</br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS code" alt="Vs code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="linux" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="VS code" alt="Vs code" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress"  alt="Wordpress" width="40" height="40"/>&nbsp;
+ 
   
 </div>
 ---
